@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: tvg-id="" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png",TV1
-https://myklik.rtm.gov.my/ee4c0ca7-673b-4add-bb8e-0d0a11476ed0
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF: tvg-id="" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
@@ -31,7 +31,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1484216590_b744100_
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxdJN8Quxikr-diY1HQVg9w)/dm/3/x6p1gw7/d/live-1.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
 #EXTINF: tvg-id="" tvg-name="Cinemax" group-title="Entertainment" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png?itok=B68WqGTJ",Cinemax
-https://h1.ustvgo.la/Cinemax/myStream/chunks.m3u8?nimblesessionid=53391687&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDE6Mzk6NTYgUE0maGFzaF92YWx1ZT1aNEZMOEFLcTVrQjNzOGN0Q0R0MldBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Cinemax/myStream/chunks.m3u8?nimblesessionid=19987333&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MzA6MDEgQU0maGFzaF92YWx1ZT1CNzdmZmE3L0IyejA1MlErMDFxcGJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF: tvg-id="" tvg-name="E1" group-title="Entertainment" tvg-logo="https://www.closinglogos.com/images/8/8b/IwxomWjJGZQ-qZRuf3rqJg40450.jpeg",E1
 https://h3.ustvgo.la/E/myStream/chunks.m3u8?nimblesessionid=20172866&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDE6NDc6MzcgUE0maGFzaF92YWx1ZT16UUY5OXAweXYrdG1jemlMM2VBRWp3PT0mdmFsaWRtaW51dGVzPTI0MA==
