@@ -51,8 +51,6 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF: tvg-id="" tvg-name="TNT" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/150px-TNT_%28TV_Channel%29.svg.png",TNT
 http://anreka1ffs.vercel.app/api?u=https%3a%2f%2ftve-live-lln.warnermediacdn.com%2fhls%2flive%2f2023168%2ftnteast%2fslate%2fVIDEO_0_3564000.m3u8
 
-
-
 #EXTINF: tvg-id="" tvg-name="ESPN 1" group-title="Sport" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 1
 http://stream2.grandma.fit/fs2.m3u8
 
