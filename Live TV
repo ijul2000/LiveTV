@@ -36,6 +36,39 @@ https://h1.ustvgo.la/Cinemax/myStream/chunks.m3u8?nimblesessionid=53391687&wmsAu
 #EXTINF:12, tvg-id="" tvg-name="E1" group-title="USA" tvg-logo="https://www.closinglogos.com/images/8/8b/IwxomWjJGZQ-qZRuf3rqJg40450.jpeg",E1
 https://h3.ustvgo.la/E/myStream/chunks.m3u8?nimblesessionid=20172866&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDE6NDc6MzcgUE0maGFzaF92YWx1ZT16UUY5OXAweXYrdG1jemlMM2VBRWp3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
+#EXTINF:13, tvg-id="" tvg-name="Game Show Network" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/220px-Game_Show_Network_2018.svg.png",Game Show Network
+https://h3.ustvgo.la/GSN/myStream/chunks.m3u8?nimblesessionid=20179183&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDI6MDg6MTEgUE0maGFzaF92YWx1ZT1Xd2kyR0tTeTc4ekpNMG82bDhBcW5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:14, tvg-id="" tvg-name="FXX" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/200px-FXX_Logo.svg.png",FXX
+https://h3.ustvgo.la/FXX/myStream/chunks.m3u8?nimblesessionid=20179631&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDI6MTE6MzUgUE0maGFzaF92YWx1ZT1HQXBmWVhpWm03dUdmb0tjRjh1YWVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:15, tvg-id="" tvg-name="FXM" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png",FXM
+https://h1.ustvgo.la/FXMovie/myStream/chunks.m3u8?nimblesessionid=53401776&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDI6MTQ6NDcgUE0maGFzaF92YWx1ZT1YNEdSVlVSUUdFWnNwS1M4bU4xc2xBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:16, tvg-id="" tvg-name="ESPN 1" group-title="Sport" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 1
+http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:17, tvg-id="" tvg-name="ESPN 2" group-title="Sport" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 2
+http://164.68.124.111/espn2.m3u8
+
+#EXTINF:18, tvg-id="" tvg-name="BT Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png",BT Sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:19, tvg-id="" tvg-name="Euro Sport 1" group-title="Sport" tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-A7DCFFAFA6-seeklogo.com.png",Euro Sport 1
+https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:20, tvg-id="" tvg-name="Euro Sport 2" group-title="Sport" tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-A7DCFFAFA6-seeklogo.com.png",Euro Sport 2
+https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:21, tvg-id="" tvg-name="Fox Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",Fox Sport 1
+http://164.68.124.111/fs1.m3u8
+
+
+
+
+
+
+
 
 
 
