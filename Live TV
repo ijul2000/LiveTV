@@ -52,7 +52,10 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://anreka1ffs.vercel.app/api?u=https%3a%2f%2ftve-live-lln.warnermediacdn.com%2fhls%2flive%2f2023168%2ftnteast%2fslate%2fVIDEO_0_3564000.m3u8
 
 #EXTINF: tvg-id="" tvg-name="Hallmark Movies & Mysteries" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",Hallmark Movies & Mysteries
-https://h4.ustvgo.la/HMM/myStream/chunks.m3u8?nimblesessionid=20140469&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDU6NTI6MDYgUE0maGFzaF92YWx1ZT1hU0hRaytwendUVHo3UEJoZXVna0t3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF: tvg-id="" tvg-name="Celestial Movies" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg",Celestial Movies
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
 #EXTINF: tvg-id="" tvg-name="Disney Channel" group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",Disney Channel
 https://h2.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=25885426&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDU6NTM6NTYgUE0maGFzaF92YWx1ZT1NM2lpbFJrVU9kRHNhcXQzKy84dldnPT0mdmFsaWRtaW51dGVzPTI0MA==
